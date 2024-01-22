@@ -1,6 +1,5 @@
-# Me
+# Hi there👋
 
-Hi there👋
 I'm Andrew, A passionate backend developer.
 💬 Ask me about Go, Java, Python
 
